@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" href="./site1.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="A"><div class="b">
+     <a href="">Homepage</a>
+        <a href="">Profile</a>
+        <a href="">Faq</a>
+        <a href="">Contacts</a>
+        <div class="c">
+        <h1>Design and layoud</h1>
+        <p><h5>Lorem, ipsum dolor create lorem uty fertoun.</h5></p>
+        <p><h5>Lorem, ipsum dolor create yiu.</h5></p>
+       <button>read</button></div></div>
+    </div>  
+    <div class="e"><center>
+        <h1>About me</h1>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil magnam ipsum temporibus numquam sint ad.</p>
+        <p>Lorem ipsum  Nihil magnam ipsum temporibus numquam sint ad.</p>
+        <p> magnam ipsum temporibus numquam sint ad.</p></center>
+            <div class="m"><center>
+                <h2>How do I work</h2>
+                <p class="sd">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil magnam ipsum temporibus numquam sint ad.</p>
+                <p class="sd">Lorem ipsum  Nihil magnam ipsum temporibus numquam sint ad.</p>
+                <p class="sd"> magnam ipsum temporibus numquam sint ad.</p></center> <iframe width="560" height="315" src="https://www.youtube.com/embed/5tvn6pOWIrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>  
+            
+    <div class="jut"> 
+        <p class="wert">(C) 2023</p> 
+    </div>
+</body>
+</html>
