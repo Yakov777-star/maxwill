@@ -1,0 +1,114 @@
+header{
+   
+    display: flex;
+    gap: 10px;
+    padding:2px;
+    align-items: center;
+}
+header>h1{
+    margin-right: 60vw;
+}
+a{
+ margin: 8px;
+    color: blue;
+   
+}
+a:hover{
+    color: blueviolet;
+}
+menu{
+   
+   height: 80%;
+   padding-left: 100px;
+
+}
+
+menu>h1{
+    color: greenyellow;
+    text-shadow: 2px 3px 4px green;
+}
+.A{
+    border: 2px solid black;
+    border-radius: 15px;
+    height: 500px;
+   
+
+}
+img{
+    width:99%;
+    height: 260px;
+    border-radius: 14px;
+
+}
+h2{
+    color: red;
+    text-shadow: 2px 3px 4px rgb(129, 49, 49);
+}
+h3{
+    color: black;
+}
+button:hover{
+    background-color: orange;
+   
+}
+.menu{
+    color: rgb(171, 168, 168);
+}
+button{
+    background-color: greenyellow;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+.list{
+
+}
+footer{
+  
+  
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.A{
+  width: calc((100% - 170px) / 4);
+}
+.wert{
+    background-color: rgb(230, 84, 133);
+    height: 300px;
+    padding: 20px;
+}
+.wert2{
+    color: rgb(79, 78, 78);
+    padding-left: 20px;
+    
+
+}
+.wert1{
+    color: rgb(39, 38, 38);
+}
+.wert3{
+    margin-top: 70px;
+    margin-left: 180px;
+}
+.qwe{
+    width: auto;
+    height: 170px;
+    padding: 15px;
+    background-color: rgb(222, 217, 217);
+}
+.qwe>h2{
+    color: rgb(0, 0, 0);
+}
+.qwe>h1{
+    color: rgb(255, 0, 0);
+    padding-left:500px;
+}
+input{
+    width: 150px;
+    height: 40px;
+   margin-left: 300px;
+   border-radius: 12px;
+}
