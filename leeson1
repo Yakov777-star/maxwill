@@ -27,11 +27,11 @@
                 <h2>How do I work</h2>
                 <p class="sd">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil magnam ipsum temporibus numquam sint ad.</p>
                 <p class="sd">Lorem ipsum  Nihil magnam ipsum temporibus numquam sint ad.</p>
-                <p class="sd"> magnam ipsum temporibus numquam sint ad.</p></center> <iframe width="560" height="315" src="https://www.youtube.com/embed/5tvn6pOWIrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <p class="sd"> magnam ipsum temporibs numquam sint ad.</p></center> <iframe width="560" height="315" src="https://www.youtube.com/embed/5tvn6pOWIrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>  
             
     <div class="jut"> 
-        <p class="wert">(C) 2023</p> 
+        <p clfass="wert">(C) 2023</p> 
     </div>
 </body>
 </html>
