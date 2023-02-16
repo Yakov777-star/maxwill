@@ -60,13 +60,7 @@ button{
     height: 40px;
     border-radius: 10px;
 }
-.list{
 
-}
-footer{
-  
-  
-}
 .list{
     display: flex;
     flex-wrap: wrap;
@@ -111,4 +105,81 @@ input{
     height: 40px;
    margin-left: 300px;
    border-radius: 12px;
+}
+
+	
+
+.m{
+    width: 100vw;
+    height: 500px;
+    background-color: rgb(142, 142, 142);
+}
+h2{
+    color: red;
+
+}
+.sd{
+    color: black;
+}
+.jut{
+    background-color: rgb(76, 76, 255);
+    width: 100vw;
+    height: 95;
+}
+
+.wert{
+    color: black;
+  
+}
+.yer{
+    width: 100PX;
+    height: 40PX;
+    background-color: aliceblue;
+    color: pink;
+    border: 2px solid red;
+    border-radius: 18px;
+}
+.yer:hover{
+    border-color: aqua;
+}
+.zar{
+   
+    
+}
+
+.rewq{
+    width: 120px;
+    height: 25px;
+    color: palevioletred;
+    background-color: aliceblue;
+    border-radius: 30px;
+    border: 2px solid palevioletred;
+}
+.zas{
+    color: rgb(227, 89, 112);
+    text-shadow: 2px, 3px, 4px, rgb(230, 48, 79);
+    margin-left: 200px;
+    margin-top: 40px;
+    margin-right: 50vw;
+}
+
+.footer{
+   text-align: center;
+
+}
+.yede{
+    border: 2px solid rgb(168, 166, 166);
+    width: calc(( 100% - 4 * 15px - 130px )  /  5  );
+    padding: 15px;
+    
+}
+.yede>h1{
+color: blueviolet;
+padding: 15px;
+text-align: center;
+}
+.ASD{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 100px;
 }
