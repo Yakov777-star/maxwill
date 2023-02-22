@@ -1,0 +1,124 @@
+.component{
+    border: 2px solid rgb(179, 179, 179);
+    width: 700px;
+    height: 190px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+    
+
+    
+}
+.unity{
+    
+    width: 130;
+    height: 186px;
+    
+}
+img{
+width: 100px;
+height: 155px;
+margin: 15px;
+
+
+}
+.p1{
+    text-align: justify;
+    width: 380px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+
+}
+span{
+    margin-right: 80px;
+    font-family: 'Roboto', sans-serif;
+   
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: orange;
+   
+
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.8rem;
+ 
+}
+.button{
+    width: 130px;
+    height: 25px;
+  border-radius: 15px;
+  border: 2px solid orange;
+  background-color: orange;
+    color: aliceblue;
+    position: relative;}
+.button1{
+    width: 130px;
+    height: 25px;
+    border: 2px solid greenyellow;
+    border-radius: 15px;
+    background-color: greenyellow;
+    color: aliceblue;
+   
+}
+.component:hover > .button1{
+    opacity: 1;
+}
+.component:hover > img {
+   transform: scale(1.2);
+}
+.span{
+    font-size: 3rem;
+}
+.you {
+    width: 250px;
+    height: 450px;
+    border: 2px solid black;
+    border-radius: 10px;
+    position: relative;
+    top: -380px;
+   
+
+}
+.cols{
+    color: green;
+    border: 2px solid black;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+
+}
+.fas{
+    font-size: 2.3rem;
+    font-family: 'Roboto', sans-serif;
+}
+.you:hover{
+    top: 0px;
+
+}
+.derik{
+   
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 30px;
+}
+.asd{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 2px 3px 4px black;
+    font-size: 2rem;
+}
